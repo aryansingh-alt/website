@@ -1,2 +1,2 @@
 # website
-aryanthecoder is my own website
+aryanthecoder.blogspot.com is my own blog
